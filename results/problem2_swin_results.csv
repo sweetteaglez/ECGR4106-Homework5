@@ -1,0 +1,4 @@
+model,pretrained,frozen_backbone,test_accuracy,total_parameters,trainable_parameters,avg_epoch_time_sec,total_training_time_sec
+Swin-Tiny-Pretrained,Yes,Yes,66.61,27596254,76900,113.31844606399537,678.1122679710388
+Swin-Small-Pretrained,Yes,Yes,70.42,48914158,76900,187.96935048103333,1127.9213345050812
+Swin-Tiny-Scratch,No,No,1.0,27596254,27596254,385.67211265563964,2055.4388122558594
